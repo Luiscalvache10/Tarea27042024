@@ -3,7 +3,7 @@
 ## Imágenes
 
 <p align="left">
-<img src="./hithub/tarea27042024/lionel messi.jpg" height="500">
+<img src="./Lionel messi.jpg" height="500">
 </p>
 
 # Lionel Andres Messi, el mejor jugador de la historia
