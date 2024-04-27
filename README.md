@@ -17,4 +17,22 @@ Pero lo que realmente distingue a Messi de otros grandes jugadores es su consist
 
 Además, Messi ha demostrado ser un líder dentro y fuera del campo, mostrando humildad, profesionalismo y compromiso con su equipo y su país. Su dedicación al deporte y su amor por el juego lo han convertido en un ícono del fútbol mundial, inspirando a generaciones de jóvenes futbolistas a seguir sus pasos.
 
+
 En resumen, Lionel Messi es el mejor jugador de la historia porque combina talento, habilidad, consistencia y liderazgo de una manera única. Su legado en el mundo del fútbol perdurará por muchos años, y su nombre será recordado como uno de los más grandes de todos los tiempos.
+
+```python
+def hola_mundo():
+    print("Hola, mundo!")
+```
+
+## Tablas Logros conseguidos con la Selección Argentina
+| Año          | categoria    | competición |
+|--------------|--------------|--------------|
+| 2005         | Sub 20       | Copa Mundial |
+| 2008         | Sub 23       | Juegos Olímpicos de Pekín|
+| 2021         | Mayores      | Copa América |
+| 2022         | Mayores      | Copa de Campeones Conmebol-UEFA|
+| 2022         | Mayores      | Copa Mundial de la FIFA|
+
+## referencias
+[Google](https://es.wikipedia.org/wiki/Lionel_Messi)
