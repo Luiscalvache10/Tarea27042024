@@ -20,10 +20,6 @@ Además, Messi ha demostrado ser un líder dentro y fuera del campo, mostrando h
 
 En resumen, Lionel Messi es el mejor jugador de la historia porque combina talento, habilidad, consistencia y liderazgo de una manera única. Su legado en el mundo del fútbol perdurará por muchos años, y su nombre será recordado como uno de los más grandes de todos los tiempos.
 
-```python
-def hola_mundo():
-    print("Hola, mundo!")
-```
 
 ## Tablas Logros conseguidos con la Selección Argentina
 | Año          | categoria    | competición |
@@ -36,3 +32,4 @@ def hola_mundo():
 
 ## referencias
 [Google](https://es.wikipedia.org/wiki/Lionel_Messi)
+[Google]([https://es.wikipedia.org/wiki/Lionel_Messi](https://www.xtrafondos.com/wallpaper/3840x2160/11266-lionel-messi-copa-mundial-fifa.html))
