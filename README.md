@@ -32,4 +32,4 @@ En resumen, Lionel Messi es el mejor jugador de la historia porque combina talen
 
 ## referencias
 [Google](https://es.wikipedia.org/wiki/Lionel_Messi)
-[Google](https://es.wikipedia.org/wiki/Lionel_Messi](https://www.xtrafondos.com/wallpaper/3840x2160/11266-lionel-messi-copa-mundial-fifa.html))
+[Google](https://www.xtrafondos.com/wallpaper/3840x2160/11266-lionel-messi-copa-mundial-fifa.html)
