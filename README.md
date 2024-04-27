@@ -9,7 +9,7 @@
 # Lionel Andres Messi, el mejor jugador de la historia
 ## Autor: Luis Calvache
 
-- Lionel Messi es considerado por muchos como el mejor jugador de fútbol de la historia, y no es difícil entender por qué. Con su habilidad excepcional, visión de juego y capacidad para marcar goles increíbles, Messi ha demostrado una y otra vez por qué es un talento único en el mundo del fútbol.
+Lionel Messi es considerado por muchos como el mejor jugador de fútbol de la historia, y no es difícil entender por qué. Con su habilidad excepcional, visión de juego y capacidad para marcar goles increíbles, Messi ha demostrado una y otra vez por qué es un talento único en el mundo del fútbol.
 
 Desde sus inicios en el FC Barcelona, Messi ha sido una fuerza imparable en el campo de juego. Con su increíble velocidad, regate y precisión en los pases, ha sido capaz de desbordar a cualquier defensa y marcar goles inolvidables. Su capacidad para cambiar el rumbo de un partido en cuestión de minutos lo ha convertido en un jugador temido por sus rivales y admirado por sus seguidores.
 
